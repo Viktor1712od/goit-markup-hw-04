@@ -450,10 +450,10 @@ img {
     margin-bottom: 8px;
 }
 
-.page-footer {
+.footer {
     background-color: #2e2f42;
     padding: 100px 0;
-    margin: 0;
+
 }
 
 .container-footer {
@@ -479,6 +479,8 @@ img {
 }
 
 .footer-description {
+    font-weight: 400;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
